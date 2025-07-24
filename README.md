@@ -59,28 +59,8 @@ Each product includes:
 ## 📁 Project Structure (Vanilla JS)
 
 
-/ecommerce/
-├── index.html
-├── register.html
-├── admin/
-│ ├── dashboard.html
-│ ├── products.html
-│ ├── categories.html
-│ └── orders.html
-├── customer/
-│ ├── home.html
-│ ├── cart.html
-│ ├── wishlist.html
-│ └── orders.html
-├── css/
-│ └── styles.css
-├── js/
-│ ├── auth.js
-│ ├── product.js
-│ ├── cart.js
-│ ├── order.js
-│ └── firebase.js
-└── assets/
+<img width="187" height="626" alt="image" src="https://github.com/user-attachments/assets/a7516af9-4dc1-4157-96db-d3c29a55cd09" />
+
 
 ## 📦 Technologies Used
 - HTML5
